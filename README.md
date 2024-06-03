@@ -11,6 +11,7 @@ After running the second choice, it would output the schedule in Excel.
 If you don't have enough time to execute the code, you could download example "schedule_1.xlsx" to check the output schedule.
 
 If you choose the second choice, you could choose "sample_A_df.csv" or "sample_B_df.csv" or "sample_C_df.csv" to upload and input as follows:
+
 ![螢幕擷取畫面 2024-06-04 071018](https://github.com/Angel1116/Integer-Programming-for-Advertisement-Scheduling/assets/103301338/8502f19d-cb3a-4e50-a269-43afd85ac0f4)
 
 After running the second choice, it would output the schedule in Excel and a bar chart about Jaccard similarity as follows:
