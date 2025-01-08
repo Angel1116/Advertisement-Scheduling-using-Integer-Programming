@@ -10,10 +10,10 @@ You can follow the command and input. For example, if you choose the first choic
 After running the second choice, it would output the schedule in Excel.
 If you don't have enough time to execute the code, you could download example "schedule_1.xlsx" to check the output schedule.
 
-<img src="https://github.com/user-attachments/assets/8326d60e-ca9b-4976-80ee-797d7b379e15" width="600"/>
-
-<img src="https://github.com/user-attachments/assets/6c3930cb-6a4d-4454-a999-3a6e9b7441ed" width="600"/>
-
+<div style="text-align: center;">
+  <img src="https://github.com/user-attachments/assets/8326d60e-ca9b-4976-80ee-797d7b379e15" width="600"/>
+  <img src="https://github.com/user-attachments/assets/6c3930cb-6a4d-4454-a999-3a6e9b7441ed" width="600"/>
+</div>
 
 If you choose the second choice, you could choose "sample_A_df.csv" or "sample_B_df.csv" or "sample_C_df.csv" to upload and input as follows:
 
