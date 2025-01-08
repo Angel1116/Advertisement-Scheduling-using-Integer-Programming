@@ -9,6 +9,9 @@ You can follow the command and input. For example, if you choose the first choic
 
 After running the second choice, it would output the schedule in Excel.
 If you don't have enough time to execute the code, you could download example "schedule_1.xlsx" to check the output schedule.
+![image](https://github.com/user-attachments/assets/a8549af7-89a4-4376-8820-2ee92bffa817)
+![image](https://github.com/user-attachments/assets/1d7a2828-5464-464f-9c78-819a0797a6a7)
+
 
 If you choose the second choice, you could choose "sample_A_df.csv" or "sample_B_df.csv" or "sample_C_df.csv" to upload and input as follows:
 
