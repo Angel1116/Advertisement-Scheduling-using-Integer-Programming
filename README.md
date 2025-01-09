@@ -1,4 +1,8 @@
-# Integer-Programming-for-Advertisement-Scheduling!
+# Advertisement Scheduling using Integer Programming
+In this project, we describe an advertisement scheduling system developed for a broadcast company providing a platform for streaming anime advertisements. The
+company needs to decide which ads to send out to which users at what particular time, given a limited capacity of broadcast time slots, while maximizing user response and revenues from anime advertisers paying for each ad. We formulate it as an optimization problem and use integer programming to solve it. Additionally, we use K-Nearest Neighbor (KNN) to predict the preferred ad schedule for users who have not rated enough ads.
+
+### Programming structure chart
 After downloding all the datasets and codes, you can run "optimization.py" to optimize the ad scheduling.
 
 The programming structure chart shows as follows:
