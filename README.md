@@ -1,6 +1,8 @@
 # Advertisement Scheduling using Integer Programming
+
+## Introduction
 In this project, we describe an advertisement scheduling system developed for a broadcast company providing a platform for streaming anime advertisements. The
-company needs to decide which ads to send out to which users at what particular time, given a limited capacity of broadcast time slots, while maximizing user response and revenues from anime advertisers paying for each ad. We formulate it as an optimization problem and use integer programming to solve it. Additionally, we use K-Nearest Neighbor (KNN) to predict the preferred ad schedule for users who have not rated enough ads. We show that the ad scheduling system significantly reduces the time by automating the ad scheduling, and predicts the user’s preferred ad scheduling by the other users having the most similar preference.
+company needs to decide which ads to send out to which users at what particular time, given a limited capacity of broadcast time slots, while maximizing user response and revenues from anime advertisers paying for each ad. We formulate it as an optimization problem and use integer programming to solve it. Additionally, we use K-Nearest Neighbor (KNN) to predict the preferred ad schedule for users who have not rated enough ads. We show that the ad scheduling system significantly reduces the time by automating the ad scheduling, and predicts the user’s preferred ad scheduling by the other users having the most similar preference.
 
 ## Programming structure chart
 After downloding all the datasets and codes, you can run "optimization.py" to optimize the ad scheduling. The programming structure chart shows as follows:
@@ -14,7 +16,7 @@ If you don't have enough time to execute the code, you could download example "s
 
 <img src="https://github.com/user-attachments/assets/8326d60e-ca9b-4976-80ee-797d7b379e15" width="500"/>
 
-<img src="https://github.com/user-attachments/assets/6c3930cb-6a4d-4454-a999-3a6e9b7441ed" width="800"/>
+<img src="https://github.com/user-attachments/assets/6c3930cb-6a4d-4454-a999-3a6e9b7441ed" width="700"/>
 
 If you choose the second choice, you could choose "sample_A_df.csv" or "sample_B_df.csv" or "sample_C_df.csv" to upload and input as follows:
 
