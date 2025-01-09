@@ -6,13 +6,15 @@ company needs to decide which ads to send out to which users at what particular 
 
 ## Programming structure chart
 After downloding all the datasets and codes, you can run "optimization.py" to optimize the ad scheduling. The programming structure chart shows as follows:
+
 <img src="https://github.com/Angel1116/Integer-Programming-for-Advertisement-Scheduling/assets/103301338/fc033511-4a9a-4426-96e9-369748ac8688" width="600"/>
 
 You can follow the command and select your prompt. There are two choices shown as below:
 
 ## Choice 1: schedule for a user in database
 If you choose the first choice, you would input as follows:
-<img src="https://github.com/Angel1116/Integer-Programming-for-Advertisement-Scheduling/assets/103301338/d012768c-f12a-469c-9f4d-626926290262" width="550"/>
+
+<img src="https://github.com/Angel1116/Integer-Programming-for-Advertisement-Scheduling/assets/103301338/d012768c-f12a-469c-9f4d-626926290262" width="400"/>
 
 It would output the schedule in Excel.
 
@@ -29,10 +31,12 @@ If you don't have enough time to execute the code, you could download example "s
 ## Choice 2: upload a new data and schedule for a new user
 If you choose the second choice, you could choose "sample_A_df.csv" or "sample_B_df.csv" or "sample_C_df.csv" to upload and input as follows:
 
-<img src="https://github.com/Angel1116/Integer-Programming-for-Advertisement-Scheduling/assets/103301338/8502f19d-cb3a-4e50-a269-43afd85ac0f4" width="550"/>
+<img src="https://github.com/Angel1116/Integer-Programming-for-Advertisement-Scheduling/assets/103301338/8502f19d-cb3a-4e50-a269-43afd85ac0f4" width="400"/>
 
 After running the second choice, it would output the schedule in Excel and a bar chart about Jaccard similarity as follows:
+
 <img src="https://github.com/Angel1116/Integer-Programming-for-Advertisement-Scheduling/assets/103301338/ef483bf4-7c46-4e36-8136-f69532ef5887" width="550"/>
 
 ▲Jaccard similarity comparison for ads and ad genres
-If you don't have enough time to execute the code, you could download example "schedule_1.xlsx" to check the output schedule.
+
+In this way, the broadcasting company can predict the ads the certain user preferred, then this will be used for ads scheduling. If you don't have enough time to execute the code, you could download example "schedule_1.xlsx" to check the output schedule.
