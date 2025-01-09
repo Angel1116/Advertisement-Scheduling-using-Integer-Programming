@@ -24,9 +24,8 @@ If you don't have enough time to execute the code, you could download example "s
 <img src="https://github.com/user-attachments/assets/2a4582f7-fbee-4a11-ad06-33f9ab0a2bab" width="550"/>
 
 ▲Scheduling result with ad index
-<div style="text-align: center;">
-    <img src="https://github.com/user-attachments/assets/6c3930cb-6a4d-4454-a999-3a6e9b7441ed" width="550" />
-</div>
+
+<img src="https://github.com/user-attachments/assets/6c3930cb-6a4d-4454-a999-3a6e9b7441ed" width="550"/>
 
 ▲Scheduling result with ad genres
 
