@@ -2,14 +2,15 @@
 
 ## Introduction
 In this project, we describe an advertisement scheduling system developed for a broadcast company providing a platform for streaming anime advertisements. The
-company needs to decide which ads to send out to which users at what particular time, given a limited capacity of broadcast time slots, while maximizing user response and revenues from anime advertisers paying for each ad. We formulate it as an optimization problem and use integer programming to solve it. Additionally, we use K-Nearest Neighbor (KNN) to predict the preferred ad schedule for users who have not rated enough ads. We show that the ad scheduling system significantly reduces the time by automating the ad scheduling, and predicts the user’s preferred ad scheduling by the other users having the most similar preference.
+company needs to decide which ads to send out to which users at what particular time, given a limited capacity of broadcast time slots, while maximizing user response and revenues from anime advertisers paying for each ad. We formulate it as an optimization problem and use integer programming to solve it. Additionally, we use K-Nearest Neighbor (KNN) to predict the preferred ad schedule for users who have not rated enough ads. 
+We show that the ad scheduling system significantly reduces the time by automating the ad scheduling, and predicts the user’s preferred ad scheduling by the other users having the most similar preference.
 
 ## Programming structure chart
 After downloding all the datasets and codes, you can run "optimization.py" to optimize the ad scheduling. The programming structure chart shows as follows:
 
 <img src="https://github.com/Angel1116/Integer-Programming-for-Advertisement-Scheduling/assets/103301338/fc033511-4a9a-4426-96e9-369748ac8688" width="600"/>
 
-You can follow the command and select your prompt. There are two choices shown as below:
+You can follow the command and select your prompt. There are two choices shown as below.
 
 ## Choice 1: schedule for a user in database
 If you choose the first choice, you would input as follows:
@@ -39,4 +40,4 @@ After running the second choice, it would output the schedule in Excel and a bar
 
 ▲Jaccard similarity comparison for ads and ad genres
 
-In this way, the broadcasting company can predict the ads the certain user preferred, then this will be used for ads scheduling. If you don't have enough time to execute the code, you could download example "schedule_1.xlsx" to check the output schedule.
+In this way, the broadcasting company can predict the ads the certain user will prefer, then this would be helpful for ads scheduling. If you don't have enough time to execute the code, you could download example "schedule_1.xlsx" to check the output schedule.
