@@ -6,12 +6,14 @@ company needs to decide which ads to send out to which users at what particular 
 
 We show that the ad scheduling system significantly reduces the time by automating the ad scheduling, and predicts the user’s preferred ad scheduling by the other users having the most similar preference.
 
+
 ## Programming structure chart
 After downloding all the datasets and codes, you can run "optimization.py" to optimize the ad scheduling. The programming structure chart shows as below:
 
 <img src="https://github.com/Angel1116/Integer-Programming-for-Advertisement-Scheduling/assets/103301338/fc033511-4a9a-4426-96e9-369748ac8688" width="600"/>
 
 You can follow the command and select your prompt. There are two choices shown as below.
+
 
 ## Choice 1: schedule for a user in database
 If you choose the first choice, you would input as below:
@@ -29,6 +31,7 @@ If you don't have enough time to execute the code, you could download example "s
 <img src="https://github.com/user-attachments/assets/6c3930cb-6a4d-4454-a999-3a6e9b7441ed" width="550"/>
 
 ▲Scheduling result with ad genres
+
 
 ## Choice 2: upload a new data and schedule for a new user
 If you choose the second choice, you could choose "sample_A_df.csv" or "sample_B_df.csv" or "sample_C_df.csv" to upload and input as below:
