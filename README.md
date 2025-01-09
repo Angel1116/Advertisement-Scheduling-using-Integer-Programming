@@ -8,7 +8,10 @@ company needs to decide which ads to send out to which users at what particular 
 After downloding all the datasets and codes, you can run "optimization.py" to optimize the ad scheduling. The programming structure chart shows as follows:
 <img src="https://github.com/Angel1116/Integer-Programming-for-Advertisement-Scheduling/assets/103301338/fc033511-4a9a-4426-96e9-369748ac8688" width="600"/>
 
-You can follow the command and input. For example, if you choose the first choice, you would input as follows:
+You can follow the command and input. 
+
+## Programming structure chart
+For example, if you choose the first choice, you would input as follows:
 <img src="https://github.com/Angel1116/Integer-Programming-for-Advertisement-Scheduling/assets/103301338/d012768c-f12a-469c-9f4d-626926290262" width="600"/>
 
 After running the second choice, it would output the schedule in Excel.
@@ -16,7 +19,7 @@ If you don't have enough time to execute the code, you could download example "s
 
 <img src="https://github.com/user-attachments/assets/8326d60e-ca9b-4976-80ee-797d7b379e15" width="500"/>
 
-<img src="https://github.com/user-attachments/assets/6c3930cb-6a4d-4454-a999-3a6e9b7441ed" width="700"/>
+<img src="https://github.com/user-attachments/assets/6c3930cb-6a4d-4454-a999-3a6e9b7441ed" width="680"/>
 
 If you choose the second choice, you could choose "sample_A_df.csv" or "sample_B_df.csv" or "sample_C_df.csv" to upload and input as follows:
 
